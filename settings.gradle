@@ -1,0 +1,2 @@
+rootProject.name = "Request Permission and Fetch Location Prep"
+include ':app'
